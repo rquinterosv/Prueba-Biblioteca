@@ -62,3 +62,5 @@ CREATE TABLE historial(
 \copy libro FROM 'libro.csv' csv;
 \copy socio FROM 'socios.csv' csv;
 \copy historial FROM 'historial.csv' csv;
+
+--consultas: 
